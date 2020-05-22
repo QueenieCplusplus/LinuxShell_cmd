@@ -48,7 +48,7 @@ https://github.com/QueenieCplusplus/POSIX/blob/master/README.md#script
 
 tips
 
-     ./ <file_name> // afer chmod 755
+     ./ <file_name> // after chmod 755
      
      bash <file_name>
      
