@@ -44,6 +44,8 @@ all basic
          
 # Execution 執行
 
+https://github.com/QueenieCplusplus/POSIX/blob/master/README.md#script
+
 tips
 
      ./ <file_name> // afer chmod 755
