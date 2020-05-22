@@ -38,7 +38,12 @@ all basic
          
 # Execution 執行
 
+tips
 
+     ./ <file_name>
+
+
+example:
 
           ✗ cd desktop
           ➜  desktop gcc 522.c
