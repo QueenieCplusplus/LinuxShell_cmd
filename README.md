@@ -1,6 +1,8 @@
 # LinuxShell_cmd
 all basic
 
+# Cmd 指令列
+
 * ;
 
 一行指令列執行多指令。
