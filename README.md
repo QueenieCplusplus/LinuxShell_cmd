@@ -15,18 +15,21 @@ all basic
 
 # Env Path 執行路徑與環境變數
 
-     ✗ echo $path
-    /usr/local/opt/python@3.8/bin 
-    /usr/local/opt/python@3.8/bin 
-    /Users/pintred/perl5/bin 
-    /Library/Frameworks/Python.framework/Versions/3.8/bin 
-    /usr/local/bin 
-    /usr/bin 
-    /bin 
-    /usr/sbin 
-    /sbin 
-    /Applications/VMware Fusion.app/Contents/Public 
-    /usr/local/go/bin
+* echo $path
+
+
+          ✗ echo $path
+         /usr/local/opt/python@3.8/bin 
+         /usr/local/opt/python@3.8/bin 
+         /Users/pintred/perl5/bin 
+         /Library/Frameworks/Python.framework/Versions/3.8/bin 
+         /usr/local/bin 
+         /usr/bin 
+         /bin 
+         /usr/sbin 
+         /sbin 
+         /Applications/VMware Fusion.app/Contents/Public 
+         /usr/local/go/bin
 
 
 
