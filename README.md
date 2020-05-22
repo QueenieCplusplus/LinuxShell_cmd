@@ -46,8 +46,14 @@ all basic
 
 tips
 
-     ./ <file_name>
-
+     ./ <file_name> // afer chmod 755
+     
+     bash <file_name>
+     
+     source <file_name>
+     
+     . <file_name> // . + space + param
+         
 
 example:
 
