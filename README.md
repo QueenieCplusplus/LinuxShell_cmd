@@ -64,6 +64,21 @@ https://github.com/QueenieCplusplus/LinuxShell_cmd/blob/master/522.c
 
  * alias
  
+ 設定別名方式
+ 
+     alias ccc='cal'
+     
+           ✗ ccc
+                5月 2020         
+          日 一 二 三 四 五 六  
+                          1  2  
+           3  4  5  6  7  8  9  
+          10 11 12 13 14 15 16  
+          17 18 19 20 21 22 23  
+          24 25 26 27 28 29 30  
+          31
+ 
+ 查看別名
  
                     ✗ alias
                     -='cd -'
