@@ -263,4 +263,16 @@ https://github.com/QueenieCplusplus/LinuxShell_cmd/blob/master/522.c
                     run-help=man
                     which-command=whence
 
+# Profile
 
+不同作業系統的人機介面則會有不同的 start-up file。
+像我是用蘋果電腦，且使用 Bash，則找到執行編輯檔案，其路徑為 ~/.bash_profile。
+
+* .Profile
+
+          #GOPATH
+           export GOPATH=~/Applications/Go
+           #GOROOT
+           export GOROOT=~/Documents/go
+           #PATH
+           export PATH=$GOROOT/bin:$GOPATH/bin:$PATH
