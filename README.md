@@ -30,7 +30,7 @@ all basic
          /sbin 
          /Applications/VMware Fusion.app/Contents/Public 
          /usr/local/go/bin
-         # 其實以上應用程式會在 Linux 系統以 : 分隔彼此。
+         # 其實以上應用程式會在 Linux 系統以 : 分隔彼此。 Sperate with each other by colon.
 
 
 
