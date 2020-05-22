@@ -1,6 +1,8 @@
 # LinuxShell_cmd
 all basic
 
+指令執行順序： 內建指令 > 別名 > 環境變數 $PATH 的定義。
+
 # Cmd 指令列
 
 * ;
