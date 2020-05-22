@@ -17,6 +17,8 @@ all basic
 
 * echo $path
 
+環境變數，讓我們全域呼叫其變數名稱，便能找到指定的路徑值，如 呼叫 ps, 其實就是呼叫 /bin/ps。
+
 
           ✗ echo $path
          /usr/local/opt/python@3.8/bin 
