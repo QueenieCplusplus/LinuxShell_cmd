@@ -45,6 +45,8 @@ tips
 
 example:
 
+https://github.com/QueenieCplusplus/LinuxShell_cmd/blob/master/522.c
+
           ✗ cd desktop
           ➜  desktop gcc 522.c
           ➜  desktop ./a.out
