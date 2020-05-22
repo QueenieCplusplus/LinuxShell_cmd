@@ -51,6 +51,8 @@ https://github.com/QueenieCplusplus/LinuxShell_cmd/blob/master/522.c
           ➜  desktop gcc 522.c
           ➜  desktop ./a.out
           this is vivy's shell and C.%  
+          
+![image](https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.0-9/99371844_121571682880808_1724959029005910016_o.png?_nc_cat=109&_nc_sid=730e14&_nc_ohc=RxP27GpnHDAAX8_NjqY&_nc_ht=scontent.ftpe8-1.fna&oh=53a71373b049ce83bf0c236cff26059f&oe=5EED12F2)
 
 
 
